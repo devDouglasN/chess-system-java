@@ -13,7 +13,7 @@ Quanto à Programação Orientada a Objetos, a lógica e a organização foram a
 
 ## Design do projeto
 O projeto tem duas partes: a camada do tabuleiro (Board layer) e a camada do xadrez (Chess layer). Na camada do tabuleiro, controlamos o tabuleiro e suas peças. Na camada do xadrez, agrupamos todas as peças e controlamos o jogo. Cada peça tem suas próprias regras de movimento e jogadas especiais. As coordenadas do tabuleiro são acessadas através de letras e números.
-![chess-system-design](./assets/chess-system-design%20(1).png)
+![chess-system-design (2)](https://github.com/devDouglasN/chess-system-java/assets/122110326/29b21fc3-4275-4d23-8b5a-032a6e097038)
 
 ## Ambiente de desenvolvimento e execução
 O projeto foi desenvolvido na IDE Eclipse, Windows, LTS e Java OpenJDK 11. Mas pode ser executado também em versões superiores.
