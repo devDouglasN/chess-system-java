@@ -32,37 +32,37 @@ O projeto foi guiado por 33 videos-aulas do curso, cerca de 5h45m de gravações
 ![wakatime-report](https://github.com/devDouglasN/chess-system-java/assets/122110326/4fb45a9e-f90c-4ca5-84cc-d5a927139ffe)
 
 ## Conteúdo: Sistema jogo de xadrez - 33 aulas - 5h45m
-Visão geral do capítulo Sistema Jogo de Xadrez
-Material de apoio do capítulo
-Criando projeto e repositório Git
-Primeira classe - Position
-Começando a implementar Board e Piece
-Camada Chess e imprimindo o tabuleiro
-Colocando peças no tabuleiro
-BoardException e programação defensiva
-ChessException e ChessPosition
-Pequena melhoria na impressão do tabuleiro
-Movendo peças
-Tratando exceções e limpando a tela
-Movimentos possíveis de uma peça
-Implementando movimentos possíveis da Torre
-Imprimindo os movimentos possíveis
-Implementando os movimentos possíveis do Rei
-Trocando de jogador a cada turno
-Manipulando peças capturadas
-Lógica de xeque - PARTE 1
-Lógica de xeque - PARTE 2
-Lógica de xequemate
-Contagem de movimentos das peças
-Peão
-Bispo
-Cavalo
-Rainha
-Jogada especial Roque - PARTE 1
-Jogada especial Roque - PARTE 2
-Jogada especial en passant - PARTE 1
-Jogada especial en passant - PARTE 2
-Jogada especial promoção
-Atualização de compliance
-Dando um tratamento melhor para promoção
+1. Visão geral do capítulo Sistema Jogo de Xadrez
+2. Material de apoio do capítulo
+3. Criando projeto e repositório Git
+4. Primeira classe - Position
+5. Começando a implementar Board e Piece
+6. Camada Chess e imprimindo o tabuleiro
+7. Colocando peças no tabuleiro
+8. BoardException e programação defensiva
+9. ChessException e ChessPosition
+10. Pequena melhoria na impressão do tabuleiro
+11. Movendo peças
+12. Tratando exceções e limpando a tela
+13. Movimentos possíveis de uma peça
+14. Implementando movimentos possíveis da Torre
+15. Imprimindo os movimentos possíveis
+16. Implementando os movimentos possíveis do Rei
+17. Trocando de jogador a cada turno
+18. Manipulando peças capturadas
+19. Lógica de xeque - PARTE 1
+20. Lógica de xeque - PARTE 2
+21. Lógica de xequemate
+22. Contagem de movimentos das peças
+23. Peão
+24. Bispo
+25. Cavalo
+26. Rainha
+27. Jogada especial Roque - PARTE 1
+28. Jogada especial Roque - PARTE 2
+29. Jogada especial en passant - PARTE 1
+30. Jogada especial en passant - PARTE 2
+31. Jogada especial promoção
+32. Atualização de compliance
+33. Dando um tratamento melhor para promoção
 
