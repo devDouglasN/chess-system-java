@@ -22,6 +22,7 @@ O programa pode ser executado diretamente do console da IDE ou na linha de coman
 
 Para executar diretamente no terminal, utilize o arquivo exportado do projeto chess-system-java.jar.
 A tela do programa deve ser executado semelhante ao mostrado a seguir:
+
 ![ta ae chef](https://github.com/devDouglasN/chess-system-java/assets/122110326/077ed5a6-f26d-4abf-8a79-eb84513a32cb)
 O turno começa com as peças Brancas (WHITE). A UI do programa solicita a entrada de origem da peça a mover (Source). Exemplo: "a2" seleciona o Peão Branco da posição A2. Confirme com ENTER e então o programa solicitará a o destino (Target) da nova posição da peça, exemplo "a4". Observe que o programa já mostra quais movimentos possíveis da peça e trata possíveis erros de movimentação. Depois de uma movimentação válida do atual jogador segue-se para o movimento do opositor, ou seja, da peça preta (BLACK). Concluída o turno, segue-se para o próximo repetindo-se a sequência. As peças capturadas são mostradas em todas a rodadas.
 
