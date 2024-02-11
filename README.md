@@ -22,12 +22,12 @@ O programa pode ser executado diretamente do console da IDE ou na linha de coman
 
 Para executar diretamente no terminal, utilize o arquivo exportado do projeto chess-system-java.jar.
 A tela do programa deve ser executado semelhante ao mostrado a seguir:
-![chess-system](./assets/chess-system.png)
+![ta ae chef](https://github.com/devDouglasN/chess-system-java/assets/122110326/077ed5a6-f26d-4abf-8a79-eb84513a32cb)
 O turno começa com as peças Brancas (WHITE). A UI do programa solicita a entrada de origem da peça a mover (Source). Exemplo: "a2" seleciona o Peão Branco da posição A2. Confirme com ENTER e então o programa solicitará a o destino (Target) da nova posição da peça, exemplo "a4". Observe que o programa já mostra quais movimentos possíveis da peça e trata possíveis erros de movimentação. Depois de uma movimentação válida do atual jogador segue-se para o movimento do opositor, ou seja, da peça preta (BLACK). Concluída o turno, segue-se para o próximo repetindo-se a sequência. As peças capturadas são mostradas em todas a rodadas.
 
 ## Carga horária
 O projeto foi guiado por 33 videos-aulas do curso, cerca de 5h45m de gravações e atividades de desenvolvimento de aproximadamente 10h, entre os dias 19 a 24 de setembro de 2022.
-![chess-system](./assets/carga-horaria.png)
+![wakatime-report](https://github.com/devDouglasN/chess-system-java/assets/122110326/4fb45a9e-f90c-4ca5-84cc-d5a927139ffe)
 
 ## Conteúdo: Sistema jogo de xadrez - 33 aulas - 5h45m
 Visão geral do capítulo Sistema Jogo de Xadrez
